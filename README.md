@@ -8,3 +8,4 @@
 - [Git](./git.md)
 - [Redis](./redis.md)
 - [MySql](./mysql.md)
+- [Nginx](./nginx.md)
