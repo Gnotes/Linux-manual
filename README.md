@@ -5,3 +5,5 @@
 ## Contents
 
 - [Node](./node.md)
+- [Git](./git.md)
+- [Redis](./redis.md)
